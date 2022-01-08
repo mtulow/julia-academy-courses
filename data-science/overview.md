@@ -39,3 +39,12 @@ This includes:
 - showing error bars
 - managing colors and color schemes
 - plot annotations.
+
+## Expectations
+
+Lession Outline:
+
+  1. Quick Intro, Packages Nedded
+  2. Data Science Tasks
+  3. Checklist of things you should be able to do after completing
+  4. One cool finding
