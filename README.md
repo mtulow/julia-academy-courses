@@ -35,8 +35,8 @@ __website:__ [link](https://juliaacademy.com/courses)
     - [ ] Other Languages
   - Visualizations Module
     - [ ] Visualizations
-- [ ] Computational Modeling in Julia
-- [ ] Foundations of Machine Learning
-- [ ] Introduction to Dataframes
-- [ ] Parallel Computing
-- [ ] Deep Learning w/ Flux
+- [ ] Computational Modeling in Julia $\quad-\quad$ [course page](https://juliaacademy.com/courses/enrolled/942996)
+- [ ] Foundations of Machine Learning $\quad-\quad$ [course page](https://juliaacademy.com/courses/enrolled/392870)
+- [ ] Introduction to Dataframes $\quad-\quad$ [course page](https://juliaacademy.com/courses/enrolled/1237045)
+- [ ] Parallel Computing $\quad-\quad$ [course page](https://juliaacademy.com/courses/enrolled/552107)
+- [ ] Deep Learning w/ Flux $\quad-\quad$ [course page](https://juliaacademy.com/courses/enrolled/526449)
