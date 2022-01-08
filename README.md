@@ -1,4 +1,4 @@
-# JuliaAcademy
+# Julia Academy Courses
 
 __website:__ [link](https://juliaacademy.com/courses)
 
@@ -19,7 +19,7 @@ __website:__ [link](https://juliaacademy.com/courses)
     - [ ] Basic Linear Algebra
     - [ ] Julia is Fast
     - [ ] Factorization
-- [ ] Julia for Data Science
+- [ ] Julia for Data Science $\quad-\quad$ [course page](https://juliaacademy.com/courses/enrolled/937702)
   - Data Module
     - [ ] Data
   - Methods Module
@@ -34,7 +34,7 @@ __website:__ [link](https://juliaacademy.com/courses)
     - [ ] Neural Nets
     - [ ] Other Languages
   - Visualizations Module
-    - [ ] Visualization
+    - [ ] Visualizations
 - [ ] Computational Modeling in Julia
 - [ ] Foundations of Machine Learning
 - [ ] Introduction to Dataframes
