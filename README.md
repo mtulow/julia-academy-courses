@@ -20,18 +20,21 @@ __website:__ [link](https://juliaacademy.com/courses)
     - [ ] Julia is Fast
     - [ ] Factorization
 - [ ] Julia for Data Science
-  - [ ] Data
-  - [ ] Linear Algebra
-  - [ ] Statistics
-  - [ ] Dimensionality Reduction
-  - [ ] Clustering
-  - [ ] Classification
-  - [ ] Regression
-  - [ ] Graphs
-  - [ ] Numerical Optimization
-  - [ ] Neural Nets
-  - [ ] Other Languages
-  - [ ] Visualization
+  - Data Module
+    - [ ] Data
+  - Methods Module
+    - [ ] Linear Algebra
+    - [ ] Statistics
+    - [ ] Dimensionality Reduction
+    - [ ] Clustering
+    - [ ] Classification
+    - [ ] Regression
+    - [ ] Graphs
+    - [ ] Numerical Optimization
+    - [ ] Neural Nets
+    - [ ] Other Languages
+  - Visualizations Module
+    - [ ] Visualization
 - [ ] Computational Modeling in Julia
 - [ ] Foundations of Machine Learning
 - [ ] Introduction to Dataframes
