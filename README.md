@@ -36,6 +36,31 @@ __website:__ [link](https://juliaacademy.com/courses)
   - Visualizations Module
     - [ ] Visualizations
 - [ ] Computational Modeling in Julia $\quad-\quad$ [course page](https://juliaacademy.com/courses/enrolled/942996)
+  - [Notebooks](https://github.com/mitmath/6S083)
+  - Data Analysis
+    - [ ] data-analysis
+  - Modeling Exponential Growth
+    - [ ] modeling-exponential-growth
+  - Stochastic Thinking
+    - [ ] stochastic-thinking
+  - Random Walk Models
+    - [ ] random-walk-models
+  - Characterizing Variability
+    - [ ] characterizing-variability
+  - User Defined Types
+    - [ ] user-defined-types
+  - Markov Chains
+    - [ ] markov-chains
+  - Continuous Random Variables
+    - [ ] continuous-random-variable
+  - Exponential Distribution
+    - [ ] exponential-distribution
+  - Differential Equations
+    - [ ] differential-equations
+  - Optimization and Linear Regression
+    - [ ] optimization-&-linear-regression
+  - Networks
+    - [ ] networks
 - [ ] Foundations of Machine Learning $\quad-\quad$ [course page](https://juliaacademy.com/courses/enrolled/392870)
 - [ ] Introduction to Dataframes $\quad-\quad$ [course page](https://juliaacademy.com/courses/enrolled/1237045)
 - [ ] Parallel Computing $\quad-\quad$ [course page](https://juliaacademy.com/courses/enrolled/552107)
